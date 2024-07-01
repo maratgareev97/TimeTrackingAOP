@@ -11,5 +11,5 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/tracking
     username: postgres
-    password: GOGUDAserver123!
+    password: postgres
     driver-class-name: org.postgresql.Driver
